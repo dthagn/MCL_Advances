@@ -1,0 +1,11 @@
+column,description,unit,source,indicator_code,definition
+Country,Country name,N/A,World Bank,N/A,Full name of the country
+Country_Code,ISO 3166-1 alpha-3 country code,N/A,World Bank,N/A,Three-letter country code according to ISO 3166-1 standard
+Year,Calendar year,Year,World Bank,N/A,Calendar year for which the data is reported
+Unemployment_Rate,"Unemployment rate, total (% of total labor force)",Percent,World Bank,SL.UEM.TOTL.ZS,Unemployment refers to the share of the labor force that is without work but available for and seeking employment.
+Youth_Unemployment_Rate,"Unemployment rate, youth total (% of total labor force ages 15-24)",Percent,World Bank,SL.UEM.1524.ZS,Unemployment youth refers to the share of the labor force ages 15-24 without work but available for and seeking employment.
+GDP_Growth,GDP growth (annual %),Percent,World Bank,NY.GDP.MKTP.KD.ZG,Annual percentage growth rate of GDP at market prices based on constant local currency.
+GDP_per_Capita,GDP per capita (current US$),US Dollars,World Bank,NY.GDP.PCAP.CD,GDP per capita is gross domestic product divided by midyear population.
+Inflation,"Inflation, consumer prices (annual %)",Percent,World Bank,FP.CPI.TOTL.ZG,Annual percentage change in consumer price indices as measured by the consumer price index.
+Labor_Force_Participation,"Labor force participation rate, total (% of total population ages 15+)",Percent,World Bank,SL.TLF.CACT.ZS,Labor force participation rate is the proportion of the population ages 15 and older that is economically active.
+Population,"Population, total",People,World Bank,SP.POP.TOTL,"Total population is based on the de facto definition of population, which counts all residents regardless of legal status."

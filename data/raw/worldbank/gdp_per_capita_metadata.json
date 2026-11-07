@@ -1,0 +1,15 @@
+{
+  "variable": "GDP_per_Capita",
+  "source": "World Bank",
+  "indicator_code": "NY.GDP.PCAP.CD",
+  "retrieval_date": "2026-09-21",
+  "countries": [
+    "VNM",
+    "THA",
+    "JPN",
+    "KOR",
+    "PHL"
+  ],
+  "year_range": "2010-2024",
+  "records": 75
+}

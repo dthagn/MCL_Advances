@@ -1,0 +1,15 @@
+{
+  "variable": "Youth_Unemployment_Rate",
+  "source": "World Bank",
+  "indicator_code": "SL.UEM.1524.ZS",
+  "retrieval_date": "2026-09-21",
+  "countries": [
+    "VNM",
+    "THA",
+    "JPN",
+    "KOR",
+    "PHL"
+  ],
+  "year_range": "2010-2024",
+  "records": 75
+}

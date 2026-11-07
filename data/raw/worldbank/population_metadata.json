@@ -1,0 +1,15 @@
+{
+  "variable": "Population",
+  "source": "World Bank",
+  "indicator_code": "SP.POP.TOTL",
+  "retrieval_date": "2026-09-21",
+  "countries": [
+    "VNM",
+    "THA",
+    "JPN",
+    "KOR",
+    "PHL"
+  ],
+  "year_range": "2010-2024",
+  "records": 75
+}

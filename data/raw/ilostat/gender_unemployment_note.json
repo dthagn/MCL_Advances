@@ -1,0 +1,8 @@
+{
+  "variable": "Male_Unemployment_Rate, Female_Unemployment_Rate",
+  "source": "ILOSTAT",
+  "status": "Not downloaded - API requires authentication",
+  "alternative": "World Bank API did not provide gender-specific data for these countries",
+  "action": "Variables will be excluded from final dataset",
+  "retrieval_date": "2026-09-21"
+}
